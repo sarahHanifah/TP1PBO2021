@@ -1,0 +1,19 @@
+Saya Sarah Hanifah (1909331) mengerjakan TP1 dalam praktikum mata kuliah DPBO
+untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+
+Kesulitan : 
+- membuat tampilannya menarik. sepertinya saya tidak punya jiwa jiwa seni
+- membuat tampilannya responsif. saya merasa seperti belajar css lagi, kadang syntaxnya bekerja kadang tidak berpengaruh, aduh pusing
+- kerapihan dan keefektifan dalam coding. saya merasa codingannya sangat berantakan
+
+Hal baru yang dipelajari :
+- membuat panel yang isinya dinamis (sesuai jumlah objek)
+- menghubungkan antar form
+- menghilangkan dan memunculkan content
+
+Fitur yang sudah dikerjakan :
+- Log In dan Log Out
+- Menampilkan produk
+- Filter produk
+- Detail produk
+- Hyperlink

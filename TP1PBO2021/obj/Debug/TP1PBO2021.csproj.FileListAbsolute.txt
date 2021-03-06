@@ -1,0 +1,11 @@
+D:\SARAH\praktikum dpbo\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.csprojAssemblyReference.cache
+D:\SARAH\praktikum dpbo\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.Properties.Resources.resources
+D:\SARAH\praktikum dpbo\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.csproj.GenerateResource.cache
+D:\SARAH\praktikum dpbo\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.csproj.CoreCompileInputs.cache
+D:\SARAH\praktikum dpbo\TP1PBO2021\TP1PBO2021\bin\Debug\TP1PBO2021.exe.config
+D:\SARAH\praktikum dpbo\TP1PBO2021\TP1PBO2021\bin\Debug\TP1PBO2021.exe
+D:\SARAH\praktikum dpbo\TP1PBO2021\TP1PBO2021\bin\Debug\TP1PBO2021.pdb
+D:\SARAH\praktikum dpbo\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.exe
+D:\SARAH\praktikum dpbo\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.pdb
+D:\SARAH\praktikum dpbo\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.formLogin.resources
+D:\SARAH\praktikum dpbo\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.formHome.resources
